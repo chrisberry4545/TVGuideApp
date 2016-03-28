@@ -1,0 +1,32 @@
+.timeBar {
+    display: block;
+    white-space: nowrap;
+}
+
+    .timeBar__timeSection {
+        width: 300px;
+        height: 50px;
+        display: inline-block;
+        background: green;
+
+        &:nth-child(even) {
+            background: lightgrey;
+        }
+    }
+
+
+    .timeBar__btn {
+        position: fixed;
+        height: 150px;
+        top: 50%;
+        transform:translateY(-50%);
+        z-index: 10;
+    }
+
+        .timeBar__btn--backward {
+            left: 0;
+        }
+
+        .timeBar__btn--forward {
+            right: 0;
+        }

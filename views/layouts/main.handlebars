@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Example App</title>
+    <link type="text/css" rel="./client/styles/app.css"></link>
+</head>
+<body>
+
+    <header>
+        <h1>Tv Guide</h1>
+    </header>
+
+
+    {{{body}}}
+
+
+    <script>
+        var channelData = {{{json channelData}}}
+    </script>
+
+    {{#if env.production}}
+        <script async src="<%= env.assets.main.js %>"></script>
+    {{else}}
+        <script src="http://localhost:3000/client/main.js"></script>
+    {{/if}}
+
+</body>
+</html>

@@ -1,0 +1,230 @@
+<channel id="bbc1" source="XMLTV" date="28/03/2016">
+<programme>
+<start>0600</start>
+<end>0900</end>
+<title>Breakfast</title>
+<desc>
+The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S] Including regional news at 25 and 55 minutes past each hour.
+</desc>
+</programme>
+<programme>
+<start>0900</start>
+<desc>
+6/20. Series following the work of probate researchers. The heir hunters investigate the life and work of a published Glaswegian author who had lost all contact with his family. Also in HD. [AD,S]
+</desc>
+<end>0945</end>
+<title>Heir Hunters</title>
+</programme>
+<programme>
+<start>0945</start>
+<end>1045</end>
+<title>Homes Under the Hammer</title>
+<desc>
+Property renovation series. A flat in London's Camberwell, another flat in Telford in Shropshire and a three-bed semi in Alvaston in Derby are all sold under the hammer. Also in HD. [S]
+</desc>
+</programme>
+<programme>
+<start>1045</start>
+<desc>
+6/15. Series following officers of Wigan council. Officers help residents with rubbish in their alleyways, assist police with an emergency and help those dealing with dementia. Also in HD. [AD,S]
+</desc>
+<title>Call the Council</title>
+<end>1130</end>
+</programme>
+<programme>
+<title>Caught Red Handed</title>
+<end>1200</end>
+<desc>
+8/20. Dom Littlewood looks at clever new methods that the police and the public are using to catch crooks red-handed. A man armed with a crowbar terrorises a jewellery shop owner. Also in HD. [AD,S]
+</desc>
+<start>1130</start>
+</programme>
+<programme>
+<start>1200</start>
+<desc>
+Antiques challenge. Two sets of teams battle it out to find the best bargains at the Detling Antiques Fair in Kent, with experts James Braxton and Kate Bliss. [AD,S]
+</desc>
+<subtitle>Detling</subtitle>
+<title>Bargain Hunt</title>
+<end>1300</end>
+</programme>
+<programme>
+<start>1300</start>
+<end>1320</end>
+<title>BBC News at One</title>
+<desc>
+The latest national and international news stories from the BBC News team, followed by weather. Also in HD. [S]
+</desc>
+</programme>
+<programme>
+<start>1320</start>
+<desc>
+The latest news, sport and weather from London. [S]
+</desc>
+<end>1330</end>
+<title>BBC London News</title>
+</programme>
+<programme>
+<start>1330</start>
+<title>Doctors</title>
+<end>1400</end>
+<subtitle>Man Up</subtitle>
+<desc>
+Drama series set in a health centre. Emma flirts with the idea of moving on, Niamh trusts her gut and Anthony causes controversy amongst the patients. Also in HD. [AD,S]
+</desc>
+</programme>
+<programme>
+<start>1400</start>
+<end>1450</end>
+<title>Father Brown</title>
+<desc>
+5/10. The Eye of Apollo: Drama series based on the stories of GK Chesterton. When the Church of Apollo comes to Kembleford, Susie is drawn to their charismatic leader, Kalon. Also in HD. [AD,S]
+</desc>
+</programme>
+<programme>
+<start>1450</start>
+<desc>
+6/20. Bill Turnbull hosts a quiz show featuring regular contributors known as the Think Tank. Also in HD. [S]
+</desc>
+<title>Think Tank</title>
+<end>1535</end>
+</programme>
+<programme>
+<start>1535</start>
+<title>Escape to the Country</title>
+<end>1620</end>
+<desc>
+Property series. Jules Hudson is hoping he can find the perfect rural home for a young couple wanting to relocate to Shropshire on a budget of £210,000. Also in HD. [AD,S]
+</desc>
+</programme>
+<programme>
+<start>1620</start>
+<desc>
+16/20. Celebrities choose the TV moments that have shaped their lives. Actor Anita Dobson joins Brian Conley to talk about the TV that helped make her the person she is today. Also in HD. [S]
+</desc>
+<title>The TV That Made Me</title>
+<end>1705</end>
+</programme>
+<programme>
+<start>1705</start>
+<desc>
+Antiques series. Paul Martin introduces a collection of the best finds from the show's travels to Edinburgh, Wallasey, Southwell, Birmingham and Dunster Castle. Also in HD. [S]
+</desc>
+<subtitle>Compilation 20</subtitle>
+<end>1745</end>
+<title>Flog It!</title>
+</programme>
+<programme>
+<start>1745</start>
+<title>Pointless</title>
+<end>1830</end>
+<desc>
+Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of. Also in HD. [S]
+</desc>
+</programme>
+<programme>
+<desc>
+The latest national and international news stories from the BBC News team, followed by weather. Also in HD. [S]
+</desc>
+<title>BBC News at Six</title>
+<end>1845</end>
+<start>1830</start>
+</programme>
+<programme>
+<title>BBC London News</title>
+<end>1900</end>
+<desc>
+The latest news, sport and weather from London. [S]
+</desc>
+<start>1845</start>
+</programme>
+<programme>
+<start>1900</start>
+<title>The One Show</title>
+<end>1930</end>
+<desc>
+If it's got Britain talking then it will get talked about on The One Show. Presented by Matt Baker and Alex Jones. Also in HD. [S]
+</desc>
+</programme>
+<programme>
+<start>1930</start>
+<desc>
+...Trousers. Oscar-winning claymation. Wallace and his canine companion Gromit become embroiled in a jewellery heist after a mysterious penguin rents a room in their house. Also in HD. [1993] [AD,S]
+</desc>
+<type>Film</type>
+<title>Wallace and Gromit: The Wrong...</title>
+<end>2000</end>
+</programme>
+<programme>
+<title>EastEnders</title>
+<end>2030</end>
+<desc>
+The Mitchells are left outraged by Phil's latest act. Despite his feelings, Tamwar stands up for Nancy. Kush makes a decision about his future with Arthur. Also in HD. [AD,S]
+</desc>
+<start>2000</start>
+</programme>
+<programme>
+<start>2030</start>
+<type>Film</type>
+<desc>
+Comic book action adventure. The director of peacekeeping agency Shield gathers an elite team of superheroes to protect the Earth from an alien invasion. Also in HD. [2012] [AD,S]
+</desc>
+<title>Marvel Avengers Assemble</title>
+<end>2240</end>
+</programme>
+<programme>
+<desc>
+The latest national and international news, with reports from BBC correspondents worldwide. Also in HD. [S]
+</desc>
+<end>2255</end>
+<title>BBC News at Ten</title>
+<start>2240</start>
+</programme>
+<programme>
+<start>2255</start>
+<title>BBC London News</title>
+<end>2305</end>
+<desc>
+The latest news, sport and weather from London. [S] Followed by weather and a National Lottery update.
+</desc>
+</programme>
+<programme>
+<end>2335</end>
+<title>Cuckoo</title>
+<desc>
+6/7. Sid's Big Day: It's the day of Baby Sid's naming, and another new Thompson causes havoc in the family. Contains some strong language. Also in HD. [AD,S]
+</desc>
+<start>2305</start>
+</programme>
+<programme>
+<start>2335</start>
+<subtitle>Batman Extra</subtitle>
+<end>0020</end>
+<title>The Graham Norton Show</title>
+<desc>
+Graham is joined by the stars of Batman v Superman: Dawn of Justice. Contains some strong language. Also in HD. [S]
+</desc>
+</programme>
+<programme>
+<end>0025</end>
+<title>Weather for the Week Ahead</title>
+<desc>Detailed weather forecast. Also in HD. [S]</desc>
+<start>0020</start>
+</programme>
+<programme>
+<title>BBC News</title>
+<end>0600</end>
+<desc>
+BBC One joins the BBC's rolling news channel for a night of news, with bulletins on the hour and the headlines every 15 minutes. Also in HD. [S]
+</desc>
+<start>0025</start>
+</programme>
+<programme>
+<start>0600</start>
+<end>0915</end>
+<title>Breakfast</title>
+<desc>
+The latest news, sport, business and weather from the BBC's Breakfast team. Also in HD. [S] Including regional news at 25 and 55 minutes past each hour.
+</desc>
+</programme>
+</channel>

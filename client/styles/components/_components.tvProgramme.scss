@@ -1,0 +1,14 @@
+.tvProgramme {
+    display:inline-block;
+    padding: 20px;
+    height: $tvProgramBarHeight;
+
+    background: grey;
+    &:nth-child(even) {
+        background: lightgrey;
+    }
+
+    &:first-child {
+        marginLeft: $tvChannelTitleWidth;
+    }
+}

@@ -1,0 +1,22 @@
+.tvChannel {
+    white-space: nowrap;
+    position: relative;
+    border-bottom: 1px solid black;
+}
+
+    .tvChannel__title {
+        display: inline-block;
+        position: relative;
+        width: 30px;
+    }
+
+    .tvChannel__title__text {
+        transform: rotate(-90deg) translateX(-50%);
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 0;
+        color: blue;
+        transform-origin: left top 0;
+        float: left;
+    }
